@@ -1,3 +1,12 @@
+# Demo Images
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/0e80b7e9-781e-4a77-9857-4f0dbc4c9ace" />
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/3b003bd2-9a8a-4779-8ba4-ff3dce2f97df" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/4c24355c-b80a-4e9b-a05f-ad409e5e0052" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/0d8fe4da-c8b0-4a43-ba04-3cc7e159dcd2" />
+
+
+
+
 # Churn Prediction Studio
 
 A dark-themed, `customtkinter`-based desktop app for exploring customer
